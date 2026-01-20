@@ -1,6 +1,9 @@
-<script>
 function alerta() {
   alert("Me quedo bien onichan");
 }
-</script>
-<script src="script.js"></script>
+const boton = document.getElementById(cambiarTitulo);
+const titulo = document.getElementById(titulo);
+
+boton.addEventListener("click", function () {
+titulo.textContent = "Anayansin :D";
+});
