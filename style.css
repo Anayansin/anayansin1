@@ -1,9 +1,8 @@
-<style>
-
 h1 {
   color: green;
   text-align: center;
 }
+
 p {
 width: 400px;
  margin: auto;
@@ -26,5 +25,3 @@ button {
   margin: 20px auto;
   padding: 10px 20px;
 }
-
-</style>
